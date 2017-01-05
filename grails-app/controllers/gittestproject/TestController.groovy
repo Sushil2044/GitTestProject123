@@ -11,5 +11,8 @@ class TestController {
     def branch1(){
 
     }
+    def secondTest(){
+
+    }
 
 }
